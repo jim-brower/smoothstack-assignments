@@ -6,6 +6,6 @@ class SingletonTest {
 
     @Test
     void getInstance() {
-        assertNotEquals(null, Singleton.getInstance());
+        assertNotNull(Singleton.getInstance());
     }
 }
