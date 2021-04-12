@@ -26,6 +26,4 @@
    Instant inst2 = datetime.toInstant()
    ------
 
-5.
-
 
