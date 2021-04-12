@@ -52,12 +52,4 @@ class FunctionalTest {
         expected = Arrays.asList("");
         assertEquals(expected, Functional.noX(initial));
     }
-
- //   @Test
- //   void groupSumClump() {
-
-        //assertTrue(Functional.groupSumClump(0, new int[]{2, 4, 8}, 10));
-        //assertTrue(Functional.groupSumClump(0, new int[]{1, 2, 4, 8, 1}, 14));
-        //assertFalse(Functional.groupSumClump(0, new int[]{2, 4, 4, 8}, 14));
- //   }
 }
